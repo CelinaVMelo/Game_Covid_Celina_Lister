@@ -44,3 +44,4 @@ class Corona:
 
     def impacto(self, obj):
         return collide(self, obj)
+teste
